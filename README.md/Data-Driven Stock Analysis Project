@@ -1,0 +1,17 @@
+# Data-Driven Stock Analysis Project
+
+This project analyzes Nifty 50 stocks, cleans the data, and builds dashboards in Streamlit and Power BI.
+
+## Tech Stack
+- Python
+- Pandas
+- SQL
+- Streamlit
+- Power BI
+
+## Project Workflow
+1. Data Extraction (YAML → CSV)
+2. Data Cleaning
+3. Data Analysis
+4. Visualization
+5. Dashboard (Streamlit + Power BI)
